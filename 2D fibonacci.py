@@ -4,7 +4,8 @@
 ### the matrix (the 8 entries surrounding the element). Starts at 0.
 
 ### Define the matrix-size and the direction of the spiral as the first
-### and second arguments in create_fib2D().
+### and second arguments in create_fib2D(). Meant to work with n-by-n matrices
+### for odd n.
 
 ### I made this for fun, I am sure this code could be vastly improved.
 ### Also, my machine seems to be unable to store the values for large versions
