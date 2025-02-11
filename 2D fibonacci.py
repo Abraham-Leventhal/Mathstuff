@@ -13,6 +13,8 @@
 
 ### I may modify in the future to allow for different initial values.
 
+### OEIS link: https://oeis.org/A358429
+
 import numpy as np
 import pandas as pd
 import os
